@@ -29,6 +29,14 @@
     <Platform Solution="Dist|x64" Project="x64" />
     <Platform Solution="Release|x64" Project="x64" />
   </Project>
+  <Project Path="Hazel\vendor\imgui\ImGui.vcxproj" Id="C0FF640D-2C14-8DBE-F595-301E616989EF">
+    <BuildType Solution="Debug|x64" Project="Debug" />
+    <BuildType Solution="Dist|x64" Project="Dist" />
+    <BuildType Solution="Release|x64" Project="Release" />
+    <Platform Solution="Debug|x64" Project="x64" />
+    <Platform Solution="Dist|x64" Project="x64" />
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
   <Project Path="Sandbox\Sandbox.vcxproj" Id="F4C124E3-60A1-A37E-69B9-2E55D5170AE0">
     <BuildType Solution="Debug|x64" Project="Debug" />
     <BuildType Solution="Dist|x64" Project="Dist" />
